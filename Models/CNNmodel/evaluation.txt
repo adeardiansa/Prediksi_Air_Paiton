@@ -1,0 +1,2 @@
+Quality Prediction - MSE: 0.0050, MAE: 0.0551
+Cost Prediction - MSE: 7672009.1185, MAE: 1985.0395
